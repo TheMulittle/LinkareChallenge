@@ -15,6 +15,6 @@ public class App {
         Integer factorialToBeCalculated = InputReader.readInteger(numberQuery);
         Integer factorialResult = FactorialCalculator.calculateFactorial(factorialToBeCalculated);
 		
-        System.out.print(factorialResult);
+        System.out.print("\nThe factorial of " + factorialToBeCalculated + " is " + factorialResult);
     }
 }
