@@ -1,5 +1,9 @@
 # Linkare TI | Exercise
 
+## The Challenge
+
+1. Write all the necessary code for executing a method that asks a user for a number and calculates its factorial. During the factorial calculation, in all intermediate steps: each time a multiple of 3 is encountered the word “hokey” is to be written; every time a multiple of 5 is reached, the word “pokey” is to be written; every time a multiple of both 3 and 5 is reached the method should write “hokey­pokey”
+
 ## Building the project with gradle
 
 ### First things first
